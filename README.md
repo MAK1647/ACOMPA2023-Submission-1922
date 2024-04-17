@@ -16,7 +16,7 @@ In our experiment, we used dataset **Penn-Fudan**, which included 170 images wit
 
 
 
-The dataset is open for free use, raw data download at (https://www.cis.upenn.edu/~jshi/ped_html/) or data which already precossed (https://universe.roboflow.com/deeplearningresearch/pedestrian-detection-ghbtz ). 
+The dataset is open for free use, raw data download at (https://www.cis.upenn.edu/~jshi/ped_html/) or data which already processed (https://universe.roboflow.com/deeplearningresearch/pedestrian-detection-ghbtz ). 
 
 
 
@@ -25,7 +25,7 @@ The dataset is open for free use, raw data download at (https://www.cis.upenn.ed
 
 - **YOLO v5s owns the best mAP, 87.4%.**
 
-![avatar]<center>(figures/arhitecture.png)
+<center><img src="figures/result.png"/> 
 
 <div align=center>Figure: Comparision Results.</div>
 
