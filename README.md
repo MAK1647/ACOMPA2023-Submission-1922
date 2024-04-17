@@ -6,7 +6,7 @@
 
 This paper presents an improved Yolov5 's framework for pedestrian detection. We propose two new attention modules for Yolov5 architecture to highlight significant information. First, the modified Efficient Channel Attention (M-ECA) was applied in the backbone of Yolo network to collect the useful features. Second, the modified Global Attention Mechanism (M-GAM) was inserted in the head of Yolo network to enhance feature representation
 
-## Proposed Architecture
+## Proposed Yolov5 's Architecture
 
 ![avatar](figures/arhitecture.png)
 
@@ -33,7 +33,7 @@ The dataset is open for free use, raw data download at (https://www.cis.upenn.ed
 
 
 
-## 
+## Citation
 `
 @INPROCEEDINGS{10473662,
   author={Vinh, Truong Quang and Long, Pham Hien},
