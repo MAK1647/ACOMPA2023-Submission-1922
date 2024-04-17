@@ -25,7 +25,7 @@ The dataset is open for free use, raw data download at (https://www.cis.upenn.ed
 
 - **YOLO v5s owns the best mAP, 87.4%.**
 
-<center><img src="figures/result.png"/> 
+![avatar]<center>(figures/arhitecture.png)
 
 <div align=center>Figure: Comparision Results.</div>
 
