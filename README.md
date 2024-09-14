@@ -1,5 +1,7 @@
 # Pedestrian Detection Using YOLO with Improved Attention Module ([Open Access paper link](https://ieeexplore.ieee.org/document/10473662))
 
+2023 International Conference on Advanced Computing and Analytics
+
 ![avatar](figures/russia_5.png)
 
 ## Introduction
